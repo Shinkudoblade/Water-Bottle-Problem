@@ -2,11 +2,12 @@
 
 ## Permainan Teka-teki Botol
 
-    Seberapa baik Anda mendapatkan jumlah yang tepat dalam botol?
-    masukkan aturan yang telah disediakan untuk mengisi, mentransfer, atau mengosongkannya.
+'''
+Seberapa baik Anda mendapatkan jumlah yang tepat dalam botol?
+masukkan aturan yang telah disediakan untuk mengisi, mentransfer, atau mengosongkannya.
     
-    Anda memiliki 2 botol dengan ukuran berbeda & persediaan air tak terbatas. 
-    Bisakah Anda mengukur jumlah air yang dibutuhkan dengan tepat?
+Anda memiliki 2 botol dengan ukuran berbeda & persediaan air tak terbatas. 
+Bisakah Anda mengukur jumlah air yang dibutuhkan dengan tepat?
     
     level 1 : 2 dari 5 dan 3
     level 2 : 2 dari 5 dan 4
@@ -23,3 +24,5 @@
     level 13 : 6 dari 12 dan 11
     level 14 : 8 dari 13 dan 11
     level 15 : 2 dari 7 dan 3
+    
+'''
