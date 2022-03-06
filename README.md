@@ -1,1 +1,1 @@
-# Water-Bottle-Problem
+# Water Bottle Problem
